@@ -6,7 +6,7 @@
 - [Teams](#teams)
 - [Customizing Spark Views](#customizing-spark-views)
 - [Customizing Spark JavaScript](#customizing-spark-javascript)
-
+ 
 <a name="introduction"></a>
 ## Introduction
 
