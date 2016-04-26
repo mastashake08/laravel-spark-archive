@@ -1,0 +1,20 @@
+/*
+ * Variables...
+ */
+$border-radius-base: 0;
+$brand-primary: #2B5A84;
+$btn-border-radius-base: 4px;
+$btn-font-weight: 300;
+$font-family-sans-serif: "Lato", Helvetica, Arial, sans-serif !default;
+$font-size-base: 14px;
+$navbar-height: 65px;
+
+/*
+ * Bootstrap CSS...
+ */
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+/*
+ * Spark Styling...
+ */
+@import "vendor/laravel/spark/resources/assets/sass/spark";

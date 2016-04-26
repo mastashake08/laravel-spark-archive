@@ -1,0 +1,56 @@
+/**
+ * Elements
+ */
+
+@import "elements/buttons";
+@import "elements/forms";
+@import "elements/modals";
+@import "elements/nav";
+@import "elements/panels";
+@import "elements/tables";
+@import "elements/tooltips";
+
+/**
+ * Components
+ */
+
+@import "components/splash";
+@import "components/subscription";
+@import "components/settings";
+@import "components/terms";
+
+/*
+ * Misc.
+ */
+
+html {
+	min-height: 100%;
+	position: relative;
+}
+
+body {
+	font-weight: 300;
+	margin-bottom: 80px;
+}
+
+.footer {
+	background-color: #f5f5f5;
+	border-top: 1px solid #e7e7e7;
+	bottom: 0;
+	height: 80px;
+	position: absolute;
+	width: 100%;
+
+	.footer-social-icons {
+		font-size: 32px;
+		padding-top: 18px;
+
+		a {
+			color: #777;
+		}
+	}
+}
+
+[v-cloak] {
+    display: none;
+}
