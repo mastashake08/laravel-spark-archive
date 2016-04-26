@@ -1,5 +1,5 @@
 {
-    "name": "laravel/spark",
+    "name": "mastashake08/laravel-spark-archive",
     "description": "Laravel Spark provides a starter scaffolding for Laravel SaaS applications.",
     "keywords": ["laravel", "stripe", "billing", "scaffolding"],
     "license": "MIT",
