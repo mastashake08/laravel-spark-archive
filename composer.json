@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": ">=5.5.9",
-        "laravel/cashier": "~5.0",
+        "laravel/cashier": "~6.0",
         "erusev/parsedown": "~1.0",
         "guzzlehttp/guzzle": "~6.0"
     },
